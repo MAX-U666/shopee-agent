@@ -1,0 +1,13 @@
+# Shopee Agent 依赖
+
+# Selenium
+selenium>=4.15.0
+
+# 紫鸟 HTTP API 调用
+requests>=2.31.0
+
+# Supabase
+supabase>=2.0.0
+
+# 其他工具
+python-dotenv>=1.0.0
